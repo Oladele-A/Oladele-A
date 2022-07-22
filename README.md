@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oladele-A
-- 👀 I’m interested in Mobile Development and AI
+- 👀 I’m interested in Mobile Development for iOS and AI
 - 🌱 I’m currently learning iOS development with swift
 - 💞️ I’m looking to collaborate on beginners level iOS app development
 - 📫 How to reach me oladele_abimbola@outlook.com
