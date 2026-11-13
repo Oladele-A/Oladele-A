@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oladele-A
+- 👋 Hi, I am Oladele. 
 - 📫 How to reach me oladele_abimbola@outlook.com
 
 
